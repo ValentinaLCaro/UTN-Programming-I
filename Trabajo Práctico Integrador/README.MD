@@ -92,7 +92,7 @@ The application follows a modular architecture with specialized functions:
 
 ## 🎥 Media & Resources
 - **Explainer Video:** [🔗 Enlace al video](https://youtu.be/CKHOuVgVxBQ?si=P1lqfzrKfjqCsUiD)
-- **Source Code:** [🔗 Enlace al repositorio](https://github.com/ValentinaCaro33/UTN-Programming-I/tree/8fae231adead7e060203dd315f179c1cce77c6ac/Trabajo%20Pr%C3%A1ctico%20Integrador)
+- **Source Code:** [🔗 Enlace al repositorio](https://github.com/ValentinaLCaro/UTN-Programming-I/tree/54a8e7e26e38fbfcf5db22ab492f5882a31460df/Trabajo%20Pr%C3%A1ctico%20Integrador)
 
 
 ---
